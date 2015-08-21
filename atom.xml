@@ -4,7 +4,7 @@
   <title><![CDATA[Sparrow chen's Blog]]></title>
   <link href="http://sparrowchen.github.io/atom.xml" rel="self"/>
   <link href="http://sparrowchen.github.io/"/>
-  <updated>2015-08-21T17:38:51+08:00</updated>
+  <updated>2015-08-21T17:50:46+08:00</updated>
   <id>http://sparrowchen.github.io/</id>
   <author>
     <name><![CDATA[sparrow chen]]></name>
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[Test]]></title>
-    <link href="http://sparrowchen.github.io/blog/test.html/"/>
+    <link href="http://sparrowchen.github.io/blog/archives/test.html/"/>
     <updated>2015-08-21T17:18:47+08:00</updated>
-    <id>http://sparrowchen.github.io/blog/test</id>
+    <id>http://sparrowchen.github.io/blog/archives/test</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Change]]></title>
-    <link href="http://sparrowchen.github.io/blog/title.html/"/>
+    <link href="http://sparrowchen.github.io/blog/archives/title.html/"/>
     <updated>2015-08-20T02:06:42+08:00</updated>
-    <id>http://sparrowchen.github.io/blog/title</id>
+    <id>http://sparrowchen.github.io/blog/archives/title</id>
     <content type="html"><![CDATA[<p>就如最优解建立在一系列约束条件，人寻找自己幸福的最优解，也是建立在一些约束的条件下。当矮挫穷在寝室努力练dota以求虐高富帅的时候，或许他寻找到了最优解，在高富帅把自己大部分的时间放在勾引美女的时候，或许，他也找到了自己人生的最优解，当程序猿天天敲代码，在代码中寻找更优的算法的时候，或许他找到了最优解，而有的人在去贫困山区支教，以发挥自己的热量的时候，或许他找到了自己的最优解.</p>
 ]]></content>
   </entry>
