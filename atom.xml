@@ -4,7 +4,7 @@
   <title><![CDATA[Sparrow chen's Blog]]></title>
   <link href="http://sparrowchen.github.io/atom.xml" rel="self"/>
   <link href="http://sparrowchen.github.io/"/>
-  <updated>2015-08-21T15:03:32+08:00</updated>
+  <updated>2015-08-21T17:20:38+08:00</updated>
   <id>http://sparrowchen.github.io/</id>
   <author>
     <name><![CDATA[sparrow chen]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://sparrowchen.github.io/blog/test.html/"/>
+    <updated>2015-08-21T17:18:47+08:00</updated>
+    <id>http://sparrowchen.github.io/blog/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Change]]></title>
